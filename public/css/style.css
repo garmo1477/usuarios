@@ -1,0 +1,31 @@
+.container{
+    width: 80%;   
+}
+main{
+    min-height: 662px;
+    margin-top: 4%;
+    margin-bottom: 2%;
+}
+.content{
+    width: 80%;
+}
+footer{
+    height: 80px;
+}
+
+footer p{
+	color: white;
+	font-size: 14px;
+}
+.navbar{
+    height: 80px;
+    background-color: rgb(44, 44, 44)!important;
+    
+}
+.navbar a{
+    font-size: 16px;
+    color: white!important;
+}
+.dropdown-menu.dropdown-menu-right.show{
+    background-color: rgb(44, 44, 44);
+}
