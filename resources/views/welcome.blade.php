@@ -101,7 +101,7 @@
                 </div>
                     <div class="row">
                         <p style="font-size: 20px;">
-                            He creado esta app, durante el curso online de pildorasinformaticas en youtube. En ella podemos crear, listar, actualizar y eliminar usuarios. Para acceder al listado de usuarios, hay que registrarse o iniciar sesión más arriba. Luego se redireccionará al listado de usuarios existentes, donde podremos crear un nuevo usuario o editar, eliminar alguno en concreto.
+                            He creado esta app, durante el curso online de pildorasinformaticas sobre Laravel en youtube. En ella podemos crear, listar, actualizar y eliminar usuarios. Para acceder al listado de usuarios, hay que registrarse o iniciar sesión más arriba. Luego se redireccionará al listado de usuarios existentes, donde podremos crear un nuevo usuario o editar, eliminar alguno en concreto.
                         </p>
                     </div>               
                 </div>
